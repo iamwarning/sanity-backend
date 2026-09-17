@@ -17,11 +17,11 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/vision": "^5.0.0",
+    "@sanity/vision": "^6.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-is": "^19.0.0",
-    "sanity": "^5.0.0",
+    "sanity": "^6.0.0",
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
